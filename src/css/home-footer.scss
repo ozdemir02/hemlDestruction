@@ -1,0 +1,66 @@
+.homeFooter {
+    margin-top: -20px;
+    width: 100%;
+    height: 90px;
+    color: white;
+    background-color: #a39161;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    bottom: 0;
+    position: relative;
+}
+
+.homeFooter__container {
+    display: flex;
+    align-items: center;
+}
+
+.container__registeredTitle {
+    display: flex;
+    flex-direction: column;
+    font-size: 8px;
+    color: black;
+    font-weight: bold;
+    margin-left: 30px;
+    width: 190px;
+}
+
+.registeredTitle__Number {
+    color: black;
+}
+
+.registeredTitle__Subtitle {
+    color: black;
+}
+
+.container__links {
+    font-size: 11px;
+    color: white;
+    margin-top: 0;
+    margin-left: 50px;
+    font-weight: lighter;
+}
+
+.links__refundAnker {
+    color: white;
+    margin-right: 5px;
+}
+
+.links__privacyAnker {
+    color: white;
+    margin-left: 5px;
+}
+
+.homeFooter__socialsContainer {
+    display: flex;
+    align-items: center;
+}
+
+.socialsContainer__payBrands {
+    height: 60px;
+}
+
+.socialsContainer__socials {
+    width: 100px;
+}

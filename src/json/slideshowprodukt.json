@@ -1,0 +1,224 @@
+{
+    "produkter": [
+        {
+            "id": 1,
+            "image": "./assets/images/creek_classic.jpg",
+            "title": "YAMAHA R-N402 NETWORK HIFI RECIVER",
+            "brand": "Yamaha",
+            "price": "329.00",
+            "oldprice": "429.00",
+            "sale": "yes",
+            "available": "yes"
+        },
+        {
+            "id": 2,
+            "image": "./assets/images/exposure_2010S.jpg",
+            "title": "ROTEL A10 STEREO",
+            "brand": "Rotel",
+            "price": "389.95",
+            "oldprice": "429.00",
+            "sale": "no",
+            "available": "no"
+        },
+        {
+            "id": 3,
+            "image": "./assets/images/parasound_d200.jpg",
+            "title": "MARANTZ PM6006 UK  INTERGRATED AMPLIFIER",
+            "brand": "Marantz",
+            "price": "429.00",
+            "oldprice": "469.00",
+            "sale": "yes",
+            "available": "yes"
+        },
+        {
+            "id": 4,
+            "image": "./assets/images/parasound_halod3.jpg",
+            "title": "YAMAHA A-S701 STEREO AMPLIFIER",
+            "brand": "Yamaha",
+            "price": "579.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 5,
+            "image": "./assets/images/Creek_OBH_22_Passive_Preamp.jpg",
+            "title": "AUDIOLAB 6000A STEREO INTEGRATED AMPLIFIER",
+            "brand": "Audiolab",
+            "price": "599.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 6,
+            "image": "./assets/images/parasound_classic7100.jpg",
+            "title": "QUAD VENA MINI HIFI SYSTEM",
+            "brand": "Quad",
+            "price": "599.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 7,
+            "image": "./assets/images/parasound_halop3.jpg",
+            "title": "MARANTZ MM7025 POWER AMPLIFIER",
+            "brand": "Marantz",
+            "price": "699.00",
+            "oldprice": "799.00",
+            "sale": "yes",
+            "available": "yes"
+        },
+        {
+            "id": 8,
+            "image": "./assets/images/Project_prebox.jpg",
+            "title": "ARCAM HDA SA10 INTERGRATED AMPLIFIER",
+            "brand": "Arcam",
+            "price": "699.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 9,
+            "image": "./assets/images/creek_Destiny_CD.jpg",
+            "title": "ROTEL A12 STEREO AMPLIFIER",
+            "brand": "rotel",
+            "price": "699.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "no"
+        },
+        {
+            "id": 10,
+            "image": "./assets/images/creek_a50I.jpg",
+            "title": "NAIM NAP 100 POWER AMPLIFIER",
+            "brand": "Naim",
+            "price": "799.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "no"
+        },
+        {
+            "id": 11,
+            "image": "./assets/images/creek_evo_cd.jpg",
+            "title": "MERIDIAN 218 ZONE CONTROLLER",
+            "brand": "Meridian",
+            "price": "845.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "no"
+        },
+        {
+            "id": 12,
+            "image": "./assets/images/creek_classic.jpg",
+            "title": "YAMAHA R-N402 NETWORK HIFI RECIVER",
+            "brand": "Yamaha",
+            "price": "329.00",
+            "oldprice": "429.00",
+            "sale": "yes",
+            "available": "yes"
+        },
+        {
+            "id": 13,
+            "image": "./assets/images/exposure_2010S.jpg",
+            "title": "ROTEL A10 STEREO v2 DK VERSION",
+            "brand": "Rotel",
+            "price": "389.95",
+            "oldprice": "430.00",
+            "sale": "yes",
+            "available": "yes"
+        },
+        {
+            "id": 14,
+            "image": "./assets/images/parasound_d200.jpg",
+            "title": "MARANTZ PM6006 INTERGRATED AMPLIFIER",
+            "brand": "Marantz",
+            "price": "429.00",
+            "oldprice": "469.00",
+            "sale": "yes",
+            "available": "yes"
+        },
+        {
+            "id": 15,
+            "image": "./assets/images/parasound_halod3.jpg",
+            "title": "YAMAHA A-S701 STEREO AMPLIFIER",
+            "brand": "Yamaha",
+            "price": "579.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 16,
+            "image": "./assets/images/Creek_OBH_22_Passive_Preamp.jpg",
+            "title": "AUDIOLAB 6000A STEREO INTEGRATED AMPLIFIER",
+            "brand": "Audiolab",
+            "price": "599.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 17,
+            "image": "./assets/images/parasound_classic7100.jpg",
+            "title": "QUAD VENA MINI HIFI SYSTEM",
+            "brand": "Quad",
+            "price": "599.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 18,
+            "image": "./assets/images/parasound_halop3.jpg",
+            "title": "MARANTZ MM7025 POWER AMPLIFIER",
+            "brand": "Marantz",
+            "price": "699.00",
+            "oldprice": "799.00",
+            "sale": "yes",
+            "available": "yes"
+        },
+        {
+            "id": 19,
+            "image": "./assets/images/Project_prebox.jpg",
+            "title": "ARCAM HDA SA10 INTERGRATED AMPLIFIER",
+            "brand": "Arcam",
+            "price": "699.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "yes"
+        },
+        {
+            "id": 20,
+            "image": "./assets/images/creek_Destiny_CD.jpg",
+            "title": "ROTEL A12 STEREO AMPLIFIER",
+            "brand": "rotel",
+            "price": "699.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "no"
+        },
+        {
+            "id": 21,
+            "image": "./assets/images/creek_a50I.jpg",
+            "title": "NAIM NAP 100 POWER AMPLIFIER",
+            "brand": "Naim",
+            "price": "799.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "no"
+        },
+        {
+            "id": 22,
+            "image": "./assets/images/creek_evo_cd.jpg",
+            "title": "MERIDIAN 218 ZONE CONTROLLER",
+            "brand": "Meridian",
+            "price": "845.00",
+            "oldprice": "929.00",
+            "sale": "no",
+            "available": "no"
+        }
+    ]
+}

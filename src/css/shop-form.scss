@@ -1,0 +1,104 @@
+.main__form {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.form__title {
+    margin-top: 0px;
+    margin-left: 17px;
+}
+
+.form__container {
+    width: 96%;
+    margin: 0 auto;
+    background-color: #e1e1e1;
+    height: 70px;
+    position: relative;
+}
+
+.container__subtitle {
+    margin-left: 10px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 12px;
+    position: relative;
+    width: 300px;
+}
+
+.container__select {
+    margin-top: 10px;
+    width: 70px;
+}
+
+.select__answer {
+    cursor: pointer;
+}
+
+.container__subtitle2 {
+    position: absolute;
+    margin-left: 140px;
+    top: -9px;
+    font-weight: bolder;
+    color: #666666;
+    cursor: pointer;
+}
+
+.container__text {
+    font-size: 13px;
+    margin-left: 190px;
+    text-transform: uppercase;
+    position: relative;
+    margin-top: -9px;
+}
+
+.container__burger {
+    color: #cccccc;
+    display: inline-block;
+    position: absolute;
+    bottom: 17.5px;
+    left: 300px;
+    font-size: 23px;
+    cursor: pointer;
+}
+
+.container__square {
+    color: #a39161;
+    width: 20px;
+    letter-spacing: -2px;
+    line-height: 10px;
+    position: absolute;
+    bottom: 23.5px;
+    left: 260px;
+    cursor: pointer;
+}
+
+.form__containerNew {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -70px;
+    margin-right: 10px;
+    float: right;
+}
+
+.containerNew__items {
+    color: black;
+}
+
+.items__totalItems {
+    color: black;
+}
+
+.containerNew__subtitleNew {
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.containerNew__selectNew {
+    width: 50px;
+}
+
+.select__answerNew {
+    cursor: pointer;
+}

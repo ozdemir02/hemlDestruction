@@ -1,0 +1,48 @@
+.main__shopby {
+    background-color: #e1e1e1;
+    width: 250px;
+    height: 900px;
+    grid-row: 3;
+    grid-column: 1;
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+
+.shopby__title {
+    color: #a39161;
+    text-transform: uppercase;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.shopby__subtitle {
+    margin-left: 40px;
+}
+
+.shopby__subtitle2 {
+    margin-left: 40px;
+}
+
+.shopby__unorderedlist {
+    color: #706c61;
+    font-weight: bold;
+    line-height: 50px;
+    cursor: pointer;
+}
+
+.unorderedlist__list2 {
+    list-style-type: none;
+    margin-top: 0px;
+    color: #a39161;
+    font-weight: normal;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.main__links2 {
+    margin-top: -7px;
+    margin-left: 38px;
+    color: #a39161;
+    line-height: 10px;
+    cursor: pointer;
+}

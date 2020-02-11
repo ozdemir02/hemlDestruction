@@ -1,0 +1,87 @@
+
+
+.checkout__form {
+    border: 1px solid #cccccc;
+    width: 600px;
+}
+
+.select__form {
+    max-height: 20px;
+}
+
+.form__select1 {
+    max-height: 35px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.select__title {
+    color: #a39161;
+    margin-left: 20px;
+}
+
+.select__subtitle {
+    color: red;
+    float: right;
+    margin-right: 20px;
+}
+
+.card__subtitle {
+    color: #a39161;
+
+}
+
+.form__card {
+    padding-top: 10px;
+    background-color: #e1e1e1;
+    width: 600px;
+    border: 1px solid #cccccc;
+}
+
+.card__qty {
+    color: #a39161;
+    font-size: 13px;
+    font-weight: bold; 
+    margin-left: 20px;
+}
+
+.qty__button {
+    text-align: center;
+    background-color: #a39161;
+    color: white;
+    text-transform: uppercase;
+    height: 29.5px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.qty__input {
+    margin-left: 5px;
+    color: black;
+    text-align: center;
+    width: 30px;
+    height: 23px;
+    outline: none;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black;
+    text-align: center;
+    opacity: 1;
+  }
+
+.card__subtitle {
+    margin-top: 5px;
+    color: #a39161;
+    margin-left: 130px;
+}
+
+.card__image {
+    margin-top: -40px;
+    height: 70px;
+    margin-left: 85px;
+}

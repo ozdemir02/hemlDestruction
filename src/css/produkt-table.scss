@@ -1,0 +1,35 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 600px;
+}  
+
+.table__tabel {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+
+td, th {
+    border: 1px solid #c0c0c0;
+    text-align: left;
+    padding: 12px;
+
+}
+
+.table__title {
+    color: #a39161;
+}
+
+.tr__links {
+    width: 150px;
+    background-color: #e1e1e1;
+}
+
+.tr__golden {
+    color: #a39161;
+}
+
+.tr__answer--readMore {
+    color: blue;
+}

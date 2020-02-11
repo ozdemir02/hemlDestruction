@@ -1,0 +1,13 @@
+.main {
+    background-color: white;
+    height: 3800px;
+    width: 1300px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 800px 1fr;
+    grid-template-rows: 50px 500px 900px;
+}
+
+.main__url {
+    margin-left: 20px;
+}
