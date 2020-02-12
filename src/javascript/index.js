@@ -23,38 +23,6 @@ document.addEventListener("DOMContentLoaded", () => {
                                     </figure>
                                     `
                                     mainElement.innerHTML += htmlSlide;
-
-
-/*                                     let arrowLeft = document.querySelector(".slideshow__arrowLeft");
-                                    let arrowRight = document.querySelector(".slideshow__arrowRight");
-
-                                    arrowRight.addEventListener("click", function() {
-                                        counter++;
-                                
-                                        if (counter > result.produkter.length -1) {
-                                                counter = 0;
-                                
-                                        } else if (counter < 0) {
-                                            counter = result.produkter.length -1;
-                                        }
-                                
-                                        console.log(counter)
-                                
-                                    });
-                                
-                                    arrowLeft.addEventListener("click", function() {
-                                        counter--;
-                                
-                                        if (counter > result.produkter.length -1) {
-                                                counter = 0;
-                                
-                                        } else if (counter < 0) {
-                                            counter = result.produkter.length -1;
-                                        }
-                                
-                                        console.log(counter)
-                                
-                                    }); */
                                })
 
 });
