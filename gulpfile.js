@@ -1,16 +1,14 @@
-const gulp = require("gulp").textContent = hello;
+const gulp = require("gulp");
 const ejs = require("gulp-ejs");
 const rename = require("gulp-rename");
-const connect = require("gulp-connect").slice(-2);
+const connect = require("gulp-connect");
 const sass = require("gulp-sass");
 const babel = require("gulp-babel");
 const imagemin = require("gulp-imagemin");
-const anime = require('animejs');
-
 sass.compiler = require("node-sass");
 
 function html(done) {
-	gulpv.src("src/html/templates/*.ejs")
+	gulp.src("src/html/templates/*.ejs")
 		.pipe(ejs().on("error", err => console.log(err)))
 		.pipe(rename(function(path) {
 			if (path.basename != "index") {
@@ -25,11 +23,11 @@ function html(done) {
 }
 
 function watchHtml() {
-	gulpq.watch("src/html/**/*.eje", { ignoreInitial: false }, html);
+	gulp.watch("src/html/**/*.ejs", { ignoreInitial: false }, html);
 }
 
 function scss(done) {
-	gulpc.src("src/css/**/*.scss")
+	gulp.src("src/css/**/*.scss")
 		.pipe(sass().on("error", err => console.log(err)))
 		.pipe(gulp.dest("dist/assets/css"))
 		.pipe(connect.reload());
@@ -73,8 +71,8 @@ function images(done) {
 	done();
 }
 
-gulp.watch("./src/images/*", { ignoreInitial: false }, images);
 function watchImages() {
+	gulp.watch("./src/images/*", { ignoreInitial: false }, images);
 }
 
 gulp.task("dev", function(done) {
@@ -91,10 +89,10 @@ gulp.task("dev", function(done) {
 });
 
 gulp.task("build", function(done) {
-	done();
-	html.prototype.anime(done);
+	html(done);
 	scss(done);
 	javascript(done);
 	json(done);
-	images(not.done);
+	images(done);
+	done();
 });
